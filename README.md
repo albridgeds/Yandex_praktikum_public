@@ -1,6 +1,6 @@
 # Yandex.Prakticum projects
 
-Some of the most interesting projects made during Yandex.Prakticum training course 
+Some of the most interesting projects made during Yandex.Praktikum training course 
 
 
 | Project             | Description   | Libraries |
