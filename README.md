@@ -1,14 +1,14 @@
-# Проекты Яндекс.Практикум
+# Yandex.Prakticum projects
 
-В этом репозитории содержатся наиболее интересные проекты, которые были выполнены в ходе обучения в Яндекс.Практикум по профессии "Специалист по Data Science"
+Some of the most interesting projects made during Yandex.Prakticum training course 
 
 
-| Проект             | Краткое описание   | Используемые библиотеки |
+| Project             | Description   | Libraries |
 | :----------------- | :----------------- | :---------------------- |
-| sprint8_oil | Определение наиболее перспективного региона для разработки нефтяных месторождений с прогнозированием запасов линейной регрессией и анализом возможной прибыли и рисков техникой Bootstrap | numpy, pandas, matplotlib, sklearn |
-| sprint9_gold | Предсказание эффективности восстановления золота из золотой руды по параметрам исходного сырья и состоянию очищающей установки на разных этапах техпроцесса | numpy, pandas, matplotlib, sklearn |
-| sprint11_autos | Предсказание цены подержанных автомобилей по доступным из объявления характеристикам с использованием алгоритма градиентного бустинга | numpy, pandas, matplotlib, seaborn, sklearn, LightGBM, CatBoost |
-| sprint12_taxi | Работа с временными рядами: предсказание количества заказов такси | numpy, pandas, matplotlib, seaborn, sklearn, LightGBM |
-| sprint13_toxic_comments | Работа с текстами: распознавание токсичных комментариев с использованием библиотеки nltk | numpy, pandas, matplotlib, sklearn, tqdm, nltk |
-| sprint15_age_recognition | Работа с изображениями: определение возраста человека на фотографии с использованием нейросети ResNet из библиотеки Keras | numpy, pandas, matplotlib, PIL, tqdm, keras |
-| final_telecom | Выпускной проект. Предсказание ухода клиента телекоммуникационного провайдера | numpy, pandas, matplotlib, seaborn, tqdm, sklearn, LightGBM |
+| sprint8_oil | Finding the most perspective region for oil production, potential profit and risk analyse using Bootstrap method | numpy, pandas, matplotlib, sklearn |
+| sprint9_gold | Gold mimig efficiency forecast (regression task) | numpy, pandas, matplotlib, sklearn |
+| sprint11_autos | Car price forecast (regression task) | numpy, pandas, matplotlib, seaborn, sklearn, LightGBM, CatBoost |
+| sprint12_taxi | Time series: taxi orders forecast | numpy, pandas, matplotlib, seaborn, sklearn, LightGBM |
+| sprint13_toxic_comments | NLP: toxic comments detection | numpy, pandas, matplotlib, sklearn, tqdm, nltk |
+| sprint15_age_recognition | CV: age detection определение возраста человека на фотографии с использованием нейросети ResNet из библиотеки Keras | numpy, pandas, matplotlib, PIL, tqdm, keras |
+| final_telecom | Final project: telecom provider's clients exit detection (classification task) | numpy, pandas, matplotlib, seaborn, tqdm, sklearn, LightGBM |
